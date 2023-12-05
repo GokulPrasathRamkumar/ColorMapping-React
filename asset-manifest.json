@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ColorMapping-React/static/css/main.ce0c60fb.css",
+    "main.js": "/ColorMapping-React/static/js/main.18e791ad.js",
+    "index.html": "/ColorMapping-React/index.html",
+    "main.ce0c60fb.css.map": "/ColorMapping-React/static/css/main.ce0c60fb.css.map",
+    "main.18e791ad.js.map": "/ColorMapping-React/static/js/main.18e791ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce0c60fb.css",
+    "static/js/main.18e791ad.js"
+  ]
+}
